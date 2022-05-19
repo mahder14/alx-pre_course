@@ -1,1 +1,1 @@
-my test directory
+directory read me 1
