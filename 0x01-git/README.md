@@ -1,1 +1,1 @@
-first directory
+directory read me 1
