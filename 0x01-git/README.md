@@ -1,1 +1,1 @@
-dir
+my test directory
